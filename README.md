@@ -5,7 +5,8 @@ Celebrating the wonderful Beverley Ann Hoskins
 Beverley Ann Hoskins <br> 
 April 21, 1947 - May 5, 2024
 
-A Celebration of Beverley's Life will be held on Sunday, May 26, 2024 from 1 - 3 PM<br> 
+A Celebration of Beverley's Life<br> 
+will be held on Sunday, May 26, 2024 from 1 - 3 PM<br> 
 in the Shoctor Theatre Lobby, Citadel Theatre<br> 
 9828 101A Ave<br>
 Edmonton AB T5J 3C6
