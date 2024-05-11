@@ -1,2 +1,2 @@
 # beverleyhoskins.gihub.io
-A tribute site for the wonderful Beverley Ann Hoskins
+A tribute site to the wonderful Beverley Ann Hoskins
