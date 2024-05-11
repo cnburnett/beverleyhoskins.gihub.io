@@ -1,6 +1,8 @@
 Celebrating the wonderful Beverley Ann Hoskins
 
-<img src="./assets/beverley_in_mountains_300px.jpeg" alt="Beverley in the NZ mountains"/>
+<a href="<img src="./assets/beverley_in_mountains_300px.jpeg" alt="Beverley in the NZ mountains"/>
+
+<a href="./assets/beverley_in_mountains_1000px.jpeg" target="_blank"><img src="./assets/beverley_in_mountains_300px.jpeg" alt="Beverley in the NZ mountains"/>" /></a>
 
 Beverley Ann Hoskins <br> 
 April 21, 1947 - May 5, 2024
