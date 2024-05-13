@@ -17,7 +17,7 @@ Beloved ...
 
 And...
 
-More...
+She is deeply missed by her children Verena (Jay Roberts), Andrew (Noreen O'Leary Hoskins), Ryan (Brittany Skinner) and Zoe (Kevin Light); her grandchildren Edward, Mackenzie, Carson, Sophie, Aoife, Paxton, Zara, Huxley, Oskar and Lochlan; many friends and relatives in New Zealand and many, many friends in Canada.
 
 Bev passed peacefully at her home, surrounded by family, on May 5, 2024. 
 
@@ -27,6 +27,6 @@ Bev passed peacefully at her home, surrounded by family, on May 5, 2024.
 
 [Photos](./photos)
 
-[Videos](./videos)
+[Chris](./chris)
 
 [Tributes](./tributes)
