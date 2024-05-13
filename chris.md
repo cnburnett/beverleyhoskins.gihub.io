@@ -2,7 +2,7 @@ Beverley was pre-deceased by her husband Chris. His obituary can be found at<br>
 https://edmontonjournal.remembering.ca/obituary/christopher-hoskins-1086144188<br>
 and is replicated below.
 
-<img src="./assets/chris_obit" alt="Chris hiking"/>
+<img src="./assets/chris_obit.jpeg" alt="Chris hiking"/>
 
 HOSKINS, Christopher Francis
 (MB. ChB, FRCSC)
