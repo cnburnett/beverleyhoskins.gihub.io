@@ -4,9 +4,8 @@
 </a href="./chris.md">Chris</a>&nbsp;&nbsp;&nbsp;
 </a href="./tributes.md">Tributes</a>
 
-Beverley was pre-deceased by her husband Chris. His obituary can be found at<br>
-https://edmontonjournal.remembering.ca/obituary/christopher-hoskins-1086144188<br>
-and is replicated below.
+Beverley was pre-deceased by her husband Chris. His obituary can be found at
+</a href="https://edmontonjournal.remembering.ca/obituary/christopher-hoskins-1086144188">Edmonton Journal</a> and is replicated below.
 
 <img src="./assets/chris_obit.jpeg" alt="Chris hiking"/>
 
