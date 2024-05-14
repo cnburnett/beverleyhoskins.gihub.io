@@ -1,8 +1,8 @@
 Celebrating the wonderful Beverley Ann Hoskins
 
-![./assets/beverley_in_mountains_300px.jpeg]
+![/assets/beverley_in_mountains_300px.jpeg]
 
-[![./assets/beverley_in_mountains_300px.jpeg]][./assets/beverley_in_mountains_1000px.jpeg]
+[![/assets/beverley_in_mountains_300px.jpeg]][./assets/beverley_in_mountains_1000px.jpeg]
 
 Beverley Ann Hoskins <br> 
 April 21, 1947 - May 5, 2024
